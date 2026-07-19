@@ -28,5 +28,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Conditional logic (`if-elif-else`), logical operators (`and`, `or`, `not`), and nested conditions.
 * **Description:** A complex business-logic script that evaluates user age, membership status, showtimes, and seat choices to calculate final ticket pricing.
 
+### 5. 🗺️ Travel & Weather Planner
+* **File:** `travel_weather_planner.py`
+* **Concepts:** Advanced conditional logic (`if-elif-else`), nested conditions, and boolean logical operators (`and`, `or`, `not`).
+* **Description:** A decision-making script that evaluates distance, weather conditions, and transport availability to determine if a commute is possible.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
