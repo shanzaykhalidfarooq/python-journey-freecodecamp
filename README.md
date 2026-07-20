@@ -33,5 +33,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Advanced conditional logic (`if-elif-else`), nested conditions, and boolean logical operators (`and`, `or`, `not`).
 * **Description:** A decision-making script that evaluates distance, weather conditions, and transport availability to determine if a commute is possible.
 
+### 6. 🏷️ Apply Discount Function
+* **File:** `apply_discount.py`
+* **Concepts:** Custom functions (`def`), input validation, return statements, and edge-case handling.
+* **Description:** A robust function that calculates the final price of an item after applying a discount, complete with checks for invalid data types and out-of-range values.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
