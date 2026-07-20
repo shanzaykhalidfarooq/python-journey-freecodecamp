@@ -9,4 +9,4 @@ def apply_discount(price, discount):
         return 'The discount should be between 0 and 100'
 
     final_price=price-(price*(discount/100))
-    return final_price
+    return final_price 
