@@ -38,5 +38,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Custom functions (`def`), input validation, return statements, and edge-case handling.
 * **Description:** A robust function that calculates the final price of an item after applying a discount, complete with checks for invalid data types and out-of-range values.
 
+### 7. 🔐 Caesar Cipher
+* **File:** `caesar_cipher.py`
+* **Concepts:** Helper functions, string manipulation (`str.maketrans` & `translate`), string slicing, and default arguments.
+* **Description:** A classic cryptography program that encrypts or decrypts text by shifting the alphabet by a specified offset while preserving case.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
