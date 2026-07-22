@@ -43,5 +43,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Helper functions, string manipulation (`str.maketrans` & `translate`), string slicing, and default arguments.
 * **Description:** A classic cryptography program that encrypts or decrypts text by shifting the alphabet by a specified offset while preserving case.
 
+### 8. ⚔️ RPG Character Creator
+* **File:** `rpg_character_creator.py`
+* **Concepts:** Strict input validation, numerical constraints, string length/formatting checks, and dynamic string repetition (`*`).
+* **Description:** A game-logic function that validates character names and attributes, generating a visual ASCII stat sheet with custom progress bars.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
