@@ -48,5 +48,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Strict input validation, numerical constraints, string length/formatting checks, and dynamic string repetition (`*`).
 * **Description:** A game-logic function that validates character names and attributes, generating a visual ASCII stat sheet with custom progress bars.
 
+### 9. 📌 PIN Extractor
+* **File:** `pin_extractor.py`
+* **Concepts:** Nested loops, string splitting (`split()`), index tracking with `enumerate()`, conditional length checking, and list aggregation.
+* **Description:** An algorithmic parser that extracts hidden PIN codes from multiline poem strings by taking character lengths from specific word positions per line.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
