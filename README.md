@@ -53,5 +53,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Nested loops, string splitting (`split()`), index tracking with `enumerate()`, conditional length checking, and list aggregation.
 * **Description:** An algorithmic parser that extracts hidden PIN codes from multiline poem strings by taking character lengths from specific word positions per line.
 
+### 10. 🔢 Number Pattern Generator
+* **File:** `number_pattern_generator.py`
+* **Concepts:** Type validation, `range()` sequence generation, list building, and string joining (`' '.join()`).
+* **Description:** A utility function that validates integer inputs and constructs a space-separated sequence of numbers from 1 up to $n$.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
