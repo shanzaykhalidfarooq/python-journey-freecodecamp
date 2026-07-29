@@ -58,5 +58,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Type validation, `range()` sequence generation, list building, and string joining (`' '.join()`).
 * **Description:** A utility function that validates integer inputs and constructs a space-separated sequence of numbers from 1 up to $n$.
 
+### 11. 🏥 Medical Data Validator
+* **File:** `medical_data_validator.py`
+* **Concepts:** Regular expressions (`re`), dictionary unpacking (`**`), set comparisons, list comprehensions, and schema validation.
+* **Description:** A comprehensive validation system that checks structured medical records against constraints, verifying data types, regex ID patterns, and required fields.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
