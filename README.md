@@ -63,5 +63,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Regular expressions (`re`), dictionary unpacking (`**`), set comparisons, list comprehensions, and schema validation.
 * **Description:** A comprehensive validation system that checks structured medical records against constraints, verifying data types, regex ID patterns, and required fields.
 
+### 12. ⚙️ User Configuration Manager
+* **File:** `user_configuration_manager.py`
+* **Concepts:** CRUD operations on dictionaries, tuple unpacking, string case normalization (`lower()`, `capitalize()`), and key verification (`in` / `del`).
+* **Description:** A state-management module that allows users to safely add, update, delete, and format viewable application settings while preventing duplicate keys.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
