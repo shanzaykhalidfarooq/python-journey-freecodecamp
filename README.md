@@ -68,5 +68,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** CRUD operations on dictionaries, tuple unpacking, string case normalization (`lower()`, `capitalize()`), and key verification (`in` / `del`).
 * **Description:** A state-management module that allows users to safely add, update, delete, and format viewable application settings while preventing duplicate keys.
 
+### 13. 🐛 Debug an ISBN Validator
+* **File:** `isbn_validator_debug.py`
+* **Concepts:** Codebase debugging, exception handling (`try`/`except`), input parsing, and unit test compliance.
+* **Description:** Refactored and debugged a pre-existing ISBN-10/ISBN-13 validator script. Resolved syntax/logic bugs and error-handling flaws to successfully pass 20 automated test assertions.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
