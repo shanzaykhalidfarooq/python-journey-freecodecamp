@@ -73,5 +73,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Codebase debugging, exception handling (`try`/`except`), input parsing, and unit test compliance.
 * **Description:** Refactored and debugged a pre-existing ISBN-10/ISBN-13 validator script. Resolved syntax/logic bugs and error-handling flaws to successfully pass 20 automated test assertions.
 
+### 14. 🎺 Musical Instrument Inventory
+* **File:** `musical_instrument_inventory.py`
+* **Concepts:** Object-Oriented Programming (OOP), class structures, `__init__` constructor, instance attributes (`self`), and object methods.
+* **Description:** A foundational OOP script modeling musical instruments as custom objects, demonstrating class definition, instantiation, attribute setting, and instance methods.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
