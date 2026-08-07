@@ -78,5 +78,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Object-Oriented Programming (OOP), class structures, `__init__` constructor, instance attributes (`self`), and object methods.
 * **Description:** A foundational OOP script modeling musical instruments as custom objects, demonstrating class definition, instantiation, attribute setting, and instance methods.
 
+### 15. 🪐 Planet Class
+* **File:** `planet_class.py`
+* **Concepts:** Object-Oriented Programming (OOP), explicit error raising (`TypeError`, `ValueError`), magic methods (`__str__`), and instance methods.
+* **Description:** A robust class representing astronomical planets that enforces data integrity by raising explicit exceptions for invalid or empty inputs, and customizes string representations.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
