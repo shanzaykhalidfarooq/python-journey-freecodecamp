@@ -83,5 +83,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Object-Oriented Programming (OOP), explicit error raising (`TypeError`, `ValueError`), magic methods (`__str__`), and instance methods.
 * **Description:** A robust class representing astronomical planets that enforces data integrity by raising explicit exceptions for invalid or empty inputs, and customizes string representations.
 
+### 16. ✉️ Email Simulator
+* **File:** `email_simulator.py`
+* **Concepts:** Multi-class OOP (composition & aggregation), state tracking, `datetime` formatting, list indexing, and entry point execution (`if __name__ == '__main__':`).
+* **Description:** An object-oriented messaging system where `User` objects send, read, and manage `Email` instances stored inside dynamic `Inbox` containers.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
