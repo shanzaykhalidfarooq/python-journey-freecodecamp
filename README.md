@@ -88,5 +88,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Multi-class OOP (composition & aggregation), state tracking, `datetime` formatting, list indexing, and entry point execution (`if __name__ == '__main__':`).
 * **Description:** An object-oriented messaging system where `User` objects send, read, and manage `Email` instances stored inside dynamic `Inbox` containers.
 
+### 17. 💰 Budget App
+* **File:** `budget_app.py`
+* **Concepts:** Advanced OOP, ledger tracking, precise string alignment/formatting (`:<`, `:>`, `^`), and ASCII data visualization algorithms.
+* **Description:** A comprehensive expense-tracking application featuring category ledgers, deposit/withdrawal/transfer management, and a dynamic vertical ASCII bar chart generator for spending percentages.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
