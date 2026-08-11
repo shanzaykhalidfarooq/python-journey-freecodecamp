@@ -9,6 +9,6 @@ This repository serves as a personal workbook to track my daily coding practice,
 ## 📚 Course Details
 
 * **Platform:** [freeCodeCamp.org](https://www.freecodecamp.org/)
-* **Course :** [Python v9 Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+* **Course :** [Python v9 Certification](https://www.freecodecamp.org/learn/python-v9/)
 
 ---
