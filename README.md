@@ -93,5 +93,10 @@ Here is a breakdown of the scripts I have built so far, ordered from my first pr
 * **Concepts:** Advanced OOP, ledger tracking, precise string alignment/formatting (`:<`, `:>`, `^`), and ASCII data visualization algorithms.
 * **Description:** A comprehensive expense-tracking application featuring category ledgers, deposit/withdrawal/transfer management, and a dynamic vertical ASCII bar chart generator for spending percentages.
 
+### 18. 💼 Salary Tracker
+* **File:** `salary_tracker.py`
+* **Concepts:** OOP encapsulation (`@property` & setters), class attributes, string representation (`__repr__` & `__str__`), and state checks with `hasattr()`.
+* **Description:** An employee management class that uses property decorators and validation logic to enforce promotion rules, base salary thresholds, and attribute constraints.
+
 ---
 *Follow along as I continue adding more scripts to my Python journey!*
